@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1442"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="drawing3.svg">
+  <defs
+     id="defs1436">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1045" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="164.35116"
+     inkscape:cy="308.83957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1046"
+     inkscape:window-height="624"
+     inkscape:window-x="173"
+     inkscape:window-y="427"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1439">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#e6e6e6;stroke-width:0.146"
+       id="path2005"
+       cx="44.488354"
+       cy="66.781349"
+       rx="11.482656"
+       ry="10.37291" />
+    <ellipse
+       ry="10.37291"
+       rx="11.482656"
+       cy="66.099533"
+       cx="132.5589"
+       id="path2005-7"
+       style="fill:#e6e6e6;stroke-width:0.146" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="40.516327"
+       y="69.05069"
+       id="text2024"><tspan
+         sodipodi:role="line"
+         id="tspan2022"
+         x="40.516327"
+         y="69.05069"
+         style="stroke-width:0.264583">S<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2026">t</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.17979"
+       y="69.355621"
+       id="text2030"><tspan
+         sodipodi:role="line"
+         id="tspan2028"
+         x="124.17979"
+         y="69.355621"
+         style="stroke-width:0.264583">S<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2032">t+1</tspan></tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 56.501241,68.524095 123.51506,67.962036"
+       id="path2036" />
+    <ellipse
+       ry="1.4241396"
+       rx="1.1320505"
+       cy="67.598198"
+       cx="15.302391"
+       id="path2038"
+       style="fill:#000000;stroke-width:1.09931;stroke-miterlimit:4;stroke-dasharray:none" />
+    <ellipse
+       style="fill:#000000;stroke-width:1.09931;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2038-8"
+       cx="22.000025"
+       cy="68.163651"
+       rx="1.1320505"
+       ry="1.4241397" />
+    <ellipse
+       style="fill:#000000;stroke-width:1.09931;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2038-5"
+       cx="29.309776"
+       cy="68.145981"
+       rx="1.1320505"
+       ry="1.4241397" />
+    <ellipse
+       style="fill:#000000;stroke-width:1.06278;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2038-0"
+       cx="146.94356"
+       cy="67.622215"
+       rx="1.1320505"
+       ry="1.3310624" />
+    <ellipse
+       ry="1.3310624"
+       rx="1.1320505"
+       cy="68.150711"
+       cx="153.64119"
+       id="path2038-8-9"
+       style="fill:#000000;stroke-width:1.06278;stroke-miterlimit:4;stroke-dasharray:none" />
+    <ellipse
+       ry="1.3310624"
+       rx="1.1320505"
+       cy="68.134201"
+       cx="160.95094"
+       id="path2038-5-9"
+       style="fill:#000000;stroke-width:1.06278;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.58615px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214654"
+       x="54.850239"
+       y="58.836136"
+       id="text2105"
+       transform="scale(0.99197364,1.0080913)"><tspan
+         sodipodi:role="line"
+         id="tspan2103"
+         x="54.850239"
+         y="58.836136"
+         style="stroke-width:0.214654">A<tspan
+   style="font-size:5.581px;baseline-shift:sub;stroke-width:0.214654"
+   id="tspan2109">t</tspan>=[A<tspan
+   style="font-size:5.581px;baseline-shift:sub;stroke-width:0.214654"
+   id="tspan2107">t</tspan><tspan
+   style="font-size:5.581px;baseline-shift:super;stroke-width:0.214654"
+   id="tspan2123">1</tspan>,A<tspan
+   style="font-size:5.581px;baseline-shift:sub;stroke-width:0.214654"
+   id="tspan2111">t</tspan><tspan
+   style="font-size:5.581px;baseline-shift:super;stroke-width:0.214654"
+   id="tspan2121">2</tspan>...A<tspan
+   style="font-size:5.581px;baseline-shift:sub;stroke-width:0.214654"
+   id="tspan2117">t</tspan><tspan
+   style="font-size:5.581px;baseline-shift:super;stroke-width:0.214654"
+   id="tspan2119">M</tspan>]</tspan></text>
+  </g>
+</svg>
